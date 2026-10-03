@@ -1,0 +1,12 @@
+{
+  "name": "dual-militia",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "relay": "node server/relay.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
